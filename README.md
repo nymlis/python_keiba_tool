@@ -12,7 +12,8 @@
   GCPの設定参考URL(https://tanuhack.com/operate-spreadsheet)
 
 4.結果を出力するスプレッドシートのスプレッドシートキーを入力します。
-  スプレッドシートのURL(例：https://docs.google.com/spreadsheets/d/××××/edit#gid=0)の××××を入力します。
+  スプレッドシートのURL(例：https://docs.google.com/spreadsheets/d/××××/edit#gid=0)
+  の××××を入力します。
   
 5.プログラム完了と表示されたらCSVファイル、スプレッドシートに結果が出力されています。
 
